@@ -24,9 +24,9 @@ yarn add express-session
 
 ## 🧭 Usage
 
-<!-- ### 🔰 Quick Start
+### 🔰 Quick Start
 
-You can see a sample of the Express plugin in use with this [Sample app](https://github.com/AuthArmor/autharmor-sample-node). -->
+You can see a sample of the Express plugin in use with this [Sample app](https://github.com/AuthArmor/autharmor-sample-node).
 
 ### 🚀 Initializing the SDK
 

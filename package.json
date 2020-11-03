@@ -1,6 +1,6 @@
 {
   "name": "autharmor-node-express",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "An SDK for setting up AuthArmor on your Express backend!",
   "main": "src/index.js",
   "license": "MIT",

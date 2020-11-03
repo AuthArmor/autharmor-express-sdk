@@ -4,6 +4,11 @@
   "description": "An SDK for setting up AuthArmor on your Express backend!",
   "main": "src/index.js",
   "license": "MIT",
+  "homepage": "https://github.com/AuthArmor/autharmor-express-sdk#readme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AuthArmor/autharmor-express-sdk.git"
+  },
   "dependencies": {
     "axios": "^0.19.2",
     "querystring": "^0.2.0",
